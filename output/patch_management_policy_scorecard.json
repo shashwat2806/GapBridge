@@ -1,0 +1,37 @@
+{
+  "overall_pct": 1.9,
+  "weighted_pct": 1.4,
+  "maturity_label": "Initial",
+  "by_function": {
+    "GOVERN": {
+      "met": 1,
+      "total": 31,
+      "pct": 3.2
+    },
+    "IDENTIFY": {
+      "met": 0,
+      "total": 21,
+      "pct": 0.0
+    },
+    "PROTECT": {
+      "met": 1,
+      "total": 22,
+      "pct": 4.5
+    },
+    "DETECT": {
+      "met": 0,
+      "total": 11,
+      "pct": 0.0
+    },
+    "RESPOND": {
+      "met": 0,
+      "total": 13,
+      "pct": 0.0
+    },
+    "RECOVER": {
+      "met": 0,
+      "total": 8,
+      "pct": 0.0
+    }
+  }
+}
