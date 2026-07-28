@@ -1,0 +1,31 @@
+RISK MANAGEMENT POLICY
+
+1. PURPOSE
+This policy establishes the framework by which the organization identifies, assesses, and responds to cybersecurity and operational risks.
+
+2. SCOPE
+This policy applies to all business units, systems, and third-party relationships that may introduce risk to the organization's operations, data, or reputation.
+
+3. RISK MANAGEMENT OBJECTIVES
+The organization's risk management objectives are to protect critical assets, maintain regulatory compliance, and ensure business continuity. These objectives are reviewed and approved annually by senior leadership.
+
+4. RISK IDENTIFICATION
+Risks shall be identified through regular risk assessments, vulnerability scans, audits, and incident reviews. Business unit leaders are responsible for reporting newly identified risks to the risk management team.
+
+5. RISK ASSESSMENT
+Identified risks shall be assessed based on likelihood and potential impact, using a standardized scoring methodology. Assessment results are recorded in the organization's risk register.
+
+6. RISK RESPONSE
+For each identified risk, the organization shall determine an appropriate response: accept, mitigate, transfer, or avoid. Risk owners are responsible for implementing approved mitigation actions within agreed timeframes.
+
+7. THIRD-PARTY RISK
+Risks introduced by suppliers and third-party vendors shall be assessed prior to engagement and monitored throughout the relationship. High-risk vendors are subject to additional due diligence and periodic reassessment.
+
+8. RISK REPORTING
+A summary of key organizational risks shall be presented to senior leadership on a quarterly basis, including the status of mitigation efforts for high-priority risks.
+
+9. ROLES AND RESPONSIBILITIES
+The risk management team is responsible for maintaining the risk register and coordinating assessments. Department heads are responsible for identifying and reporting risks within their area of operation.
+
+10. POLICY REVIEW
+This policy and the associated risk management methodology shall be reviewed annually and updated to reflect changes in the organization's risk landscape.

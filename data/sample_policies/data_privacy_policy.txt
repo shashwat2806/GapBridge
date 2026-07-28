@@ -1,0 +1,28 @@
+DATA PRIVACY AND SECURITY POLICY
+
+1. PURPOSE
+This policy establishes the organization's requirements for protecting personal and sensitive data collected, processed, and stored across all systems.
+
+2. SCOPE
+This policy applies to all employees, contractors, and third parties who handle organizational data, including customer information, employee records, and confidential business data.
+
+3. DATA CLASSIFICATION
+All data must be classified according to its sensitivity level: Public, Internal, Confidential, or Restricted. Data owners are responsible for assigning the appropriate classification at the time of creation.
+
+4. DATA HANDLING
+Employees must handle data in accordance with its classification level. Confidential and Restricted data must not be shared with unauthorized parties, whether internal or external to the organization.
+
+5. THIRD-PARTY DATA SHARING
+Before any personal or sensitive data is shared with external vendors or partners, a data protection agreement must be signed. The organization maintains a list of approved third-party data processors.
+
+6. DATA RETENTION
+Data shall be retained only as long as necessary to fulfill the purpose for which it was collected, subject to applicable legal and regulatory requirements. Retention schedules are reviewed annually by the compliance team.
+
+7. INCIDENT NOTIFICATION
+In the event of a suspected data breach, employees must notify the IT Security team within 24 hours of discovery. The organization will assess the scope of the breach and notify affected parties as required by applicable law.
+
+8. EMPLOYEE RESPONSIBILITIES
+All employees who handle personal data are required to complete data privacy training annually. Failure to comply with this policy may result in disciplinary action.
+
+9. POLICY REVIEW
+This policy will be reviewed annually by the Data Protection Officer and updated as necessary to reflect changes in applicable law and organizational practice.

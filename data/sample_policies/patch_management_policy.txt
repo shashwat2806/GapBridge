@@ -1,0 +1,31 @@
+PATCH MANAGEMENT POLICY
+
+1. PURPOSE
+This policy defines the process for identifying, testing, and deploying software patches and security updates across the organization's systems and infrastructure.
+
+2. SCOPE
+This policy covers all servers, workstations, network devices, and applications owned or managed by the organization, including systems hosted on-premises and in the cloud.
+
+3. PATCH IDENTIFICATION
+The IT team is responsible for monitoring vendor security advisories and identifying applicable patches for all in-scope systems on a weekly basis.
+
+4. PATCH PRIORITIZATION
+Patches shall be prioritized based on the severity of the vulnerability they address. Critical security patches must be evaluated for deployment within 72 hours of release. Non-critical patches may follow the standard monthly maintenance cycle.
+
+5. TESTING
+Before deployment to production systems, patches must be tested in a non-production environment to confirm compatibility and stability. Testing results must be documented.
+
+6. DEPLOYMENT
+Approved patches shall be deployed according to the organization's change management process. Deployment windows are scheduled outside of business hours where possible to minimize disruption.
+
+7. EXCEPTIONS
+Systems that cannot be patched according to the standard schedule due to operational constraints must be documented as exceptions, along with compensating controls, and reviewed by IT leadership.
+
+8. VERIFICATION
+After deployment, the IT team shall verify that patches were applied successfully and that no unintended issues have occurred.
+
+9. REPORTING
+A monthly patch compliance report shall be generated, summarizing the patch status of all in-scope systems and any outstanding exceptions.
+
+10. POLICY REVIEW
+This policy shall be reviewed on an annual basis or following any significant change to the organization's IT infrastructure.

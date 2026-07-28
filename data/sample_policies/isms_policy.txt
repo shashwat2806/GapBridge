@@ -1,0 +1,13 @@
+Information Security Management Policy
+
+1. Purpose
+This policy establishes the framework for managing information security risks across the organization.
+
+2. Scope
+This policy applies to all employees, contractors, and systems that access organizational data.
+
+3. Access Control
+Users must have unique login credentials. Multi factor authentication is required for all critical systems.
+
+4. Risk Management
+Risk assessments must be conducted annually to identify vulnerabilities and threats.
