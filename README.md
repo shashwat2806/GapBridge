@@ -81,10 +81,6 @@ streamlit run ui/app.py
 4. Generate roadmap. Gaps are prioritized into short term, mid term, and long term remediation items
 5. Report and revise. A local LLM (Mistral 7B via Ollama), grounded with a RAG pipeline over the NIST framework, drafts a gap report and revised policy language
 
-## Roadmap
-
-* Hosted web version (FastAPI and React) on free tier infrastructure (Render, Vercel, Neon Postgres), with Groq as a swappable hosted LLM provider alongside the offline CLI and Streamlit path
-
 ## License
 
 MIT. See LICENSE
